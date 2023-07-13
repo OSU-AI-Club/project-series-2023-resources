@@ -1,2 +1,2 @@
 There is nothing in this folder by default. All required data will be downloaded automatically upon running the jupyter notebooks. \
-If I end up using a dataset that isn't automatically downloaded by PyTorch, I'll link it here. \
+If I end up using a dataset that isn't automatically downloaded by PyTorch, I'll link it here. 
