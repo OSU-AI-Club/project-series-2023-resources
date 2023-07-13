@@ -1,25 +1,25 @@
-# project-series-2023-resources
+# Resources for Project Series 2023
 
 ## Folder Structure
 ### facial_epression_classifier
-- jupyter notebook for testing
-- folder: model
-- folder: dataset
-- folder: scripts
+- "testing.ipynb"
+- model/
+- dataset/
+- scripts/
 - to be added to
 ### resources
-- data
+- data/
     - any datasets used in the resources folder
-- models
+- models/
     - "image_segmentation.ipynb"
     - "image_classification.ipynb"
     - "natural_language.ipynb"
     - anything else that would come in useful.
-- deployment_guides
+- deployment_guides/
     - "aws.ipynb"
     - "web_server.ipynb"
     - anything else that would come in useful.
 - using_gpu.ipynb
 ### slides
 - slides for every lecture
-- slides notes
+- slide notes
