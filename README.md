@@ -5,7 +5,7 @@
 2. Assuming you have python installed, "cd" into the directory and run "pip install -r requirements.txt". All required libraries will be installed onto your system.
 3. You can now open the notebooks in any editor that supports Jupyter Notebooks, such as Visual Studio Code. If you have multiple pip/conda environments, make sure you select the kernel with the packages installed.\
 \
-**If you are using a conda environment, make sure that you have pip installed in the environment, and that the environment is active. Otherwise, you might install the packages outside of the environment. You can check which pip install you are using by running "which pip" on bash/zsh, or "get-command pip" on powershell.**
+**If you are using a conda environment, make sure that you have pip installed in the environment, and that the environment is active. Otherwise, you might install the packages outside of the environment. You can check which pip install you are using by running "which pip" on bash/zsh (Linux/macOS), or "get-command pip" on powershell (Windows).**
 
 ## Folder Structure
 ### facial_epression_classifier
