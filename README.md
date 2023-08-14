@@ -8,7 +8,7 @@
 **If you are using a conda environment, make sure that you have pip installed in the environment, and that the environment is active. Otherwise, you might install the packages outside of the environment. You can check which pip install you are using by running "which pip" on bash/zsh (Linux/macOS), or "get-command pip" on powershell (Windows).**
 
 ## Folder Structure
-### facial_epression_classifier
+### EmotionRecognitionProject
 - "testing.ipynb"
 - model/
 - dataset/
