@@ -12,7 +12,7 @@
 - "EmotionDetection.ipynb"
 - test_images/
 - result_images/
-- dataset.md
+- "dataset.md"
 ### resources
 - data/
     - any datasets used in the resources folder
