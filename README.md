@@ -9,11 +9,10 @@
 
 ## Folder Structure
 ### EmotionRecognitionProject
-- "testing.ipynb"
-- model/
-- dataset/
-- scripts/
-- to be added to
+- "EmotionDetection.ipynb"
+- test_images/
+- result_images/
+- dataset.md
 ### resources
 - data/
     - any datasets used in the resources folder
